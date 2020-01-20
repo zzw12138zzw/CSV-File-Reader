@@ -1,0 +1,5 @@
+Tanzania,3600
+Nigeria,1470
+Congo,946
+South Africa,2750
+Mozambique,2375
